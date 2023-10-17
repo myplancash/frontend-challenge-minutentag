@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  color: white;
 }
 
 .App-logo {
@@ -26,6 +27,14 @@
 
 .App-link {
   color: #61dafb;
+}
+
+/* Add this CSS to your App.css or a separate CSS file */
+.separator {
+  border: none;
+  height: 2px;
+  background-color: #007bff;
+  margin: 20px 0;
 }
 
 @keyframes App-logo-spin {
