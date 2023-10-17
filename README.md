@@ -1,6 +1,11 @@
+# Minutentag's Frontend Challenge
+
+![frontend-challenge-minutentag](https://github.com/myplancash/frontend-challenge-minutentag/assets/64751892/61d3fa6a-9eef-4633-8390-232a1e66e4e7)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
