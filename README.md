@@ -2,16 +2,18 @@
 
 ![frontend-challenge-minutentag](https://github.com/myplancash/frontend-challenge-minutentag/assets/64751892/61d3fa6a-9eef-4633-8390-232a1e66e4e7)
 
+## initial commands to run
+
+### `npm install`
+
+## then you can run
+
+### `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
